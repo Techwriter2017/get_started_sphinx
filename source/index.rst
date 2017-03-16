@@ -6,6 +6,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   CH4
+   CH6
+   CH9
    part-1
    part-2
    part-3
