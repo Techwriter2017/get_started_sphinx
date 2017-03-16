@@ -24,6 +24,7 @@ the writer should be prepared for the meeting with appropriate questions, listen
 feedback.  It is important to be professional and diplomatic when giving feedback.
 Lastly, technical writers need to understand the various social media services available.  
 For example:
+
 * Videoconferencing as a way to meet and share information.
 * Online information sources such as tweets, wikis, websites, Facebook, YouTube, and more.
 * Different types of writing (aka authoring) software and online review.
