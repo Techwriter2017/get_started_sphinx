@@ -25,14 +25,11 @@ three different ways.
 
 You can find information in traditional form, online social media, or forms that you generate yourself:
      
-* Traditional form includes print, online databases or catalogs, reference works, periodicals, newspapers, 
-abstracts, and government information.   
+* Traditional form includes print, online databases or catalogs, reference works, periodicals, newspapers, abstracts, and government information.   
 
-* Online social media includes online discussion boards, wikis, blogs, tagged content, and RSS feeds. You 
-will need to evaluate the information that you find for accuracy, bias, completeness, appropriateness, 
-clarity, and timeliness.   
+* Online social media includes online discussion boards, wikis, blogs, tagged content, and RSS feeds. You will need to evaluate the information that you find for accuracy, bias, completeness, appropriateness, clarity, and timeliness.   
 
-* Forms that you generate yourself such as includes observations, field research, inspections, demonstrations, interviews, questionnaires, inquiries, and surveys.
+* Forms that you generate yourself such as observations, field research, inspections, demonstrations, interviews, questionnaires, inquiries, and surveys.
  
 Regardless of where you get the research, it must be accurate and you must be honest in how you use it.
 
