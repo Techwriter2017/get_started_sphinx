@@ -1,5 +1,5 @@
 Chapter 4: Writing Collaboratively
-#########################################33
+==============================================
 Technical writers are often employed by corporations and assigned to work on team to produce documentation.  
 In these corporations, it is necessary for the writer to know how to collaborate with the team.  
 When collaboration is done correctly, the documentation is better.
