@@ -32,7 +32,7 @@ abstracts, and government information.
 will need to evaluate the information that you find for accuracy, bias, completeness, appropriateness, 
 clarity, and timeliness.   
 
- * Forms that you generate yourself such as includes observations, field research, inspections, demonstrations, interviews, questionnaires, inquiries, and surveys.
+* Forms that you generate yourself such as includes observations, field research, inspections, demonstrations, interviews, questionnaires, inquiries, and surveys.
  
 Regardless of where you get the research, it must be accurate and you must be honest in how you use it.
 
